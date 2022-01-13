@@ -1,0 +1,25 @@
+{
+  "name": "buger-eats",
+  "version": "1.0.0",
+  "description": "Projeto de testes de aceitação do app Buger Eats",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuletsgo/buger-eats.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Emanuele Amanda Marques",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manuletsgo/buger-eats/issues"
+  },
+  "homepage": "https://github.com/manuletsgo/buger-eats#readme",
+  "devDependencies": {
+    "cypress": "^9.2.1"
+  }
+}
