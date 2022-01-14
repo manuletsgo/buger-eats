@@ -1,0 +1,14 @@
+{
+  "nome": "Ayrton Senna",
+  "cpf": "02332512011",
+  "email": "ayrton@vrummm.com",
+  "whatsapp": "11999876522",
+  "endereco": {
+    "cep": "88010000",
+    "rua": "Rua Felipe Schmidt",
+    "numero": "1313",
+    "complemento": "apto 1001",
+    "bairro": "Centro",
+    "cidade_uf": "Florianópolis/SC"
+  }
+}

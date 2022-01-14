@@ -1,5 +1,4 @@
 
-
 describe('home page', () => {
     it('app deverá estar  online', () => {
         cy.visit('/')
